@@ -1,0 +1,106 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-notes 20090706094240\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.07.06 09:42+0300\n"
+"PO-Revision-Date: 2009.07.06 09:42+0300\n"
+"Last-Translator:\n"
+"Language-Team: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2\n"
+
+msgid "conn_nc_remove_formatting"
+msgstr "Удалить форматирование заметки?"
+
+msgid "note_ap_notes_name"
+msgstr "Заметки"
+
+msgid "note_ap_notes_title"
+msgstr "Заметки"
+
+msgid "note_fi_details_characters"
+msgstr "Число знаков"
+
+msgid "note_fi_details_lines"
+msgstr "Число строк"
+
+msgid "note_ib_autosave_recover_failed"
+msgstr "Не удалось восстановить автоматически сохраненный файл"
+
+msgid "note_ib_not_available"
+msgstr "Недоступен"
+
+msgid "note_ib_remote_file_not_available"
+msgstr "Файл на другом устройстве недоступен"
+
+msgid "note_ib_unsupported_char"
+msgstr "Неподдерживаемые символы"
+
+msgid "note_me_menu_edit_redo"
+msgstr "Повторить"
+
+msgid "note_me_menu_edit_undo"
+msgstr "Отменить"
+
+msgid "note_me_menu_format_alignment"
+msgstr "Выравнивание"
+
+msgid "note_me_menu_format_centered"
+msgstr "По центру"
+
+msgid "note_me_menu_format_file_format"
+msgstr "Формат файла"
+
+msgid "note_me_menu_format_font"
+msgstr "Шрифт"
+
+msgid "note_me_menu_format_formatted_text"
+msgstr "Формат. текст"
+
+msgid "note_me_menu_format_left"
+msgstr "По лев. краю"
+
+msgid "note_me_menu_format_plain_text"
+msgstr "Обычный текст"
+
+msgid "note_me_menu_format_right"
+msgstr "По прав. краю"
+
+msgid "note_me_menu_note_details"
+msgstr "Свойства"
+
+msgid "note_me_menu_note_new"
+msgstr "Создать"
+
+msgid "note_me_menu_note_open"
+msgstr "Открыть"
+
+msgid "note_me_menu_note_save"
+msgstr "Сохранить"
+
+msgid "note_me_menu_note_settings"
+msgstr "Параметры"
+
+msgid "note_ms_save_failed"
+msgstr "Не удается сохранить"
+
+msgid "note_ti_details_title"
+msgstr "Свойства заметки"
+
+msgid "notes_ib_saved"
+msgstr "Сохранено"
+
+msgid "sfil_ti_open_note"
+msgstr "Открыть заметку"
+
+msgid "sfil_ti_save_object_note"
+msgstr "Сохранить заметку"
+
+msgid "sfil_va_save_object_name_stub_note"
+msgstr "Заметка"
+
+msgid "sfil_va_select_object_no_objects_notes"
+msgstr "(нет заметок)"

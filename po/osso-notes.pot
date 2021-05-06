@@ -1,0 +1,105 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-notes 20090706094240\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.07.06 09:42+0300\n"
+"PO-Revision-Date: 2009.07.06 09:42+0300\n"
+"Last-Translator:\n"
+"Language-Team: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "conn_nc_remove_formatting"
+msgstr "Remove all text formatting from the note?"
+
+msgid "note_ap_notes_name"
+msgstr "Notes"
+
+msgid "note_ap_notes_title"
+msgstr "Notes"
+
+msgid "note_fi_details_characters"
+msgstr "Number of characters"
+
+msgid "note_fi_details_lines"
+msgstr "Number of lines"
+
+msgid "note_ib_autosave_recover_failed"
+msgstr "Recovering autosaved file failed"
+
+msgid "note_ib_not_available"
+msgstr "Not available"
+
+msgid "note_ib_remote_file_not_available"
+msgstr "Remote file not available"
+
+msgid "note_ib_unsupported_char"
+msgstr "Unsupported characters"
+
+msgid "note_me_menu_edit_redo"
+msgstr "Redo"
+
+msgid "note_me_menu_edit_undo"
+msgstr "Undo"
+
+msgid "note_me_menu_format_alignment"
+msgstr "Alignment"
+
+msgid "note_me_menu_format_centered"
+msgstr "Centred"
+
+msgid "note_me_menu_format_file_format"
+msgstr "File format"
+
+msgid "note_me_menu_format_font"
+msgstr "Font"
+
+msgid "note_me_menu_format_formatted_text"
+msgstr "Formatted text"
+
+msgid "note_me_menu_format_left"
+msgstr "Left"
+
+msgid "note_me_menu_format_plain_text"
+msgstr "Plain text"
+
+msgid "note_me_menu_format_right"
+msgstr "Right"
+
+msgid "note_me_menu_note_details"
+msgstr "Details"
+
+msgid "note_me_menu_note_new"
+msgstr "New"
+
+msgid "note_me_menu_note_open"
+msgstr "Open"
+
+msgid "note_me_menu_note_save"
+msgstr "Save"
+
+msgid "note_me_menu_note_settings"
+msgstr "Settings"
+
+msgid "note_ms_save_failed"
+msgstr "Unable to save"
+
+msgid "note_ti_details_title"
+msgstr "Note details"
+
+msgid "notes_ib_saved"
+msgstr "Saved"
+
+msgid "sfil_ti_open_note"
+msgstr "Open note"
+
+msgid "sfil_ti_save_object_note"
+msgstr "Save note"
+
+msgid "sfil_va_save_object_name_stub_note"
+msgstr "Note"
+
+msgid "sfil_va_select_object_no_objects_notes"
+msgstr "(no notes)"

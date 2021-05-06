@@ -1,0 +1,105 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-notes 20090706094240\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.07.06 09:42+0300\n"
+"PO-Revision-Date: 2009.07.06 09:42+0300\n"
+"Last-Translator:\n"
+"Language-Team: fi_FI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "conn_nc_remove_formatting"
+msgstr "Poistetaanko kaikki tekstin muotoilut muistiinpanosta?"
+
+msgid "note_ap_notes_name"
+msgstr "Muistiinpanot"
+
+msgid "note_ap_notes_title"
+msgstr "Muistiinpanot"
+
+msgid "note_fi_details_characters"
+msgstr "Merkkien määrä"
+
+msgid "note_fi_details_lines"
+msgstr "Rivien määrä"
+
+msgid "note_ib_autosave_recover_failed"
+msgstr "Autom. tallennetun tiedoston palautus epäonnistui"
+
+msgid "note_ib_not_available"
+msgstr "Ei käytettävissä"
+
+msgid "note_ib_remote_file_not_available"
+msgstr "Etätiedosto ei ole käytettävissä"
+
+msgid "note_ib_unsupported_char"
+msgstr "Merkkejä ei tueta"
+
+msgid "note_me_menu_edit_redo"
+msgstr "Tee uudelleen"
+
+msgid "note_me_menu_edit_undo"
+msgstr "Kumoa"
+
+msgid "note_me_menu_format_alignment"
+msgstr "Tasaus"
+
+msgid "note_me_menu_format_centered"
+msgstr "Keskitetty"
+
+msgid "note_me_menu_format_file_format"
+msgstr "Tiedostomuoto"
+
+msgid "note_me_menu_format_font"
+msgstr "Fontti"
+
+msgid "note_me_menu_format_formatted_text"
+msgstr "Muotoiltu teksti"
+
+msgid "note_me_menu_format_left"
+msgstr "Vasen"
+
+msgid "note_me_menu_format_plain_text"
+msgstr "Vain teksti"
+
+msgid "note_me_menu_format_right"
+msgstr "Oikea"
+
+msgid "note_me_menu_note_details"
+msgstr "Tiedot"
+
+msgid "note_me_menu_note_new"
+msgstr "Uusi"
+
+msgid "note_me_menu_note_open"
+msgstr "Avaa"
+
+msgid "note_me_menu_note_save"
+msgstr "Tallenna"
+
+msgid "note_me_menu_note_settings"
+msgstr "Asetukset"
+
+msgid "note_ms_save_failed"
+msgstr "Ei voi tallentaa"
+
+msgid "note_ti_details_title"
+msgstr "Muistiinpanon tiedot"
+
+msgid "notes_ib_saved"
+msgstr "Tallennettu"
+
+msgid "sfil_ti_open_note"
+msgstr "Avaa muistiinpano"
+
+msgid "sfil_ti_save_object_note"
+msgstr "Tallenna muistiinpano"
+
+msgid "sfil_va_save_object_name_stub_note"
+msgstr "Muistiinpano"
+
+msgid "sfil_va_select_object_no_objects_notes"
+msgstr "(ei muistiinpanoja)"

@@ -1,0 +1,105 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-notes 20090706094240\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.07.06 09:42+0300\n"
+"PO-Revision-Date: 2009.07.06 09:42+0300\n"
+"Last-Translator:\n"
+"Language-Team: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "conn_nc_remove_formatting"
+msgstr "Vill du ta bort all textformatering från anteckningen?"
+
+msgid "note_ap_notes_name"
+msgstr "Anteckningar"
+
+msgid "note_ap_notes_title"
+msgstr "Anteckningar"
+
+msgid "note_fi_details_characters"
+msgstr "Antal tecken"
+
+msgid "note_fi_details_lines"
+msgstr "Antal rader"
+
+msgid "note_ib_autosave_recover_failed"
+msgstr "Återställning av autosparad fil misslyckades"
+
+msgid "note_ib_not_available"
+msgstr "Ej tillgängligt"
+
+msgid "note_ib_remote_file_not_available"
+msgstr "Fjärrfilen är inte tillgänglig"
+
+msgid "note_ib_unsupported_char"
+msgstr "Tecknen stöds inte"
+
+msgid "note_me_menu_edit_redo"
+msgstr "Gör om"
+
+msgid "note_me_menu_edit_undo"
+msgstr "Ångra"
+
+msgid "note_me_menu_format_alignment"
+msgstr "Justering"
+
+msgid "note_me_menu_format_centered"
+msgstr "Centrerat"
+
+msgid "note_me_menu_format_file_format"
+msgstr "Filformat"
+
+msgid "note_me_menu_format_font"
+msgstr "Teckensnitt"
+
+msgid "note_me_menu_format_formatted_text"
+msgstr "Formaterad text"
+
+msgid "note_me_menu_format_left"
+msgstr "Vänster"
+
+msgid "note_me_menu_format_plain_text"
+msgstr "Ren text"
+
+msgid "note_me_menu_format_right"
+msgstr "Höger"
+
+msgid "note_me_menu_note_details"
+msgstr "Information"
+
+msgid "note_me_menu_note_new"
+msgstr "Ny"
+
+msgid "note_me_menu_note_open"
+msgstr "Öppna"
+
+msgid "note_me_menu_note_save"
+msgstr "Spara"
+
+msgid "note_me_menu_note_settings"
+msgstr "Inställningar"
+
+msgid "note_ms_save_failed"
+msgstr "Det gick inte att spara"
+
+msgid "note_ti_details_title"
+msgstr "Anteckningsinformation"
+
+msgid "notes_ib_saved"
+msgstr "Sparad"
+
+msgid "sfil_ti_open_note"
+msgstr "Öppna anteckning"
+
+msgid "sfil_ti_save_object_note"
+msgstr "Spara anteckning"
+
+msgid "sfil_va_save_object_name_stub_note"
+msgstr "Anteckning"
+
+msgid "sfil_va_select_object_no_objects_notes"
+msgstr "(inga anteckningar)"

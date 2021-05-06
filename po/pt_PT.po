@@ -1,0 +1,105 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-notes 20090706094240\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.07.06 09:42+0300\n"
+"PO-Revision-Date: 2009.07.06 09:42+0300\n"
+"Last-Translator:\n"
+"Language-Team: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "conn_nc_remove_formatting"
+msgstr "Remover toda a formatação de texto da nota?"
+
+msgid "note_ap_notes_name"
+msgstr "Notas"
+
+msgid "note_ap_notes_title"
+msgstr "Notas"
+
+msgid "note_fi_details_characters"
+msgstr "Número de caracteres"
+
+msgid "note_fi_details_lines"
+msgstr "Número de linhas"
+
+msgid "note_ib_autosave_recover_failed"
+msgstr "Falha ao recuperar o ficheiro guardado automaticamente"
+
+msgid "note_ib_not_available"
+msgstr "Indisponível"
+
+msgid "note_ib_remote_file_not_available"
+msgstr "Ficheiro remoto indisponível"
+
+msgid "note_ib_unsupported_char"
+msgstr "Caracteres não suportados"
+
+msgid "note_me_menu_edit_redo"
+msgstr "Refazer"
+
+msgid "note_me_menu_edit_undo"
+msgstr "Anular"
+
+msgid "note_me_menu_format_alignment"
+msgstr "Alinhamento"
+
+msgid "note_me_menu_format_centered"
+msgstr "Centrado"
+
+msgid "note_me_menu_format_file_format"
+msgstr "Formato de ficheiro"
+
+msgid "note_me_menu_format_font"
+msgstr "Tipo de letra"
+
+msgid "note_me_menu_format_formatted_text"
+msgstr "Texto formatado"
+
+msgid "note_me_menu_format_left"
+msgstr "Esquerda"
+
+msgid "note_me_menu_format_plain_text"
+msgstr "Texto simples"
+
+msgid "note_me_menu_format_right"
+msgstr "Direita"
+
+msgid "note_me_menu_note_details"
+msgstr "Detalhes"
+
+msgid "note_me_menu_note_new"
+msgstr "Nova"
+
+msgid "note_me_menu_note_open"
+msgstr "Abrir"
+
+msgid "note_me_menu_note_save"
+msgstr "Guardar"
+
+msgid "note_me_menu_note_settings"
+msgstr "Definições"
+
+msgid "note_ms_save_failed"
+msgstr "Não foi possível guardar"
+
+msgid "note_ti_details_title"
+msgstr "Detalhes da nota"
+
+msgid "notes_ib_saved"
+msgstr "Guardada"
+
+msgid "sfil_ti_open_note"
+msgstr "Abrir nota"
+
+msgid "sfil_ti_save_object_note"
+msgstr "Guardar nota"
+
+msgid "sfil_va_save_object_name_stub_note"
+msgstr "Nota"
+
+msgid "sfil_va_select_object_no_objects_notes"
+msgstr "(sem notas)"
