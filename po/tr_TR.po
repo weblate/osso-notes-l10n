@@ -1,0 +1,105 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-notes 20090706094240\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.07.06 09:42+0300\n"
+"PO-Revision-Date: 2010-05-29 21:57+0200\n"
+"Last-Translator: Aranel Surion <aranel@aranelsurion.org>\n"
+"Language-Team: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "conn_nc_remove_formatting"
+msgstr "Nottan tüm metin biçimlendirmesi kaldırılsın mı?"
+
+msgid "note_ap_notes_name"
+msgstr "Notlar"
+
+msgid "note_ap_notes_title"
+msgstr "Notlar"
+
+msgid "note_fi_details_characters"
+msgstr "Karakter sayısı"
+
+msgid "note_fi_details_lines"
+msgstr "Satır sayısı"
+
+msgid "note_ib_autosave_recover_failed"
+msgstr "Otomatik kaydedilen dosya kurtarılamadı"
+
+msgid "note_ib_not_available"
+msgstr "Uygun değil"
+
+msgid "note_ib_remote_file_not_available"
+msgstr "Uzak dosya mevcut değil"
+
+msgid "note_ib_unsupported_char"
+msgstr "Desteklenmeyen karakterler"
+
+msgid "note_me_menu_edit_redo"
+msgstr "Yinele"
+
+msgid "note_me_menu_edit_undo"
+msgstr "Geri al"
+
+msgid "note_me_menu_format_alignment"
+msgstr "Hizalama"
+
+msgid "note_me_menu_format_centered"
+msgstr "Ortalanmış"
+
+msgid "note_me_menu_format_file_format"
+msgstr "Dosya biçimi"
+
+msgid "note_me_menu_format_font"
+msgstr "Yazı tipi"
+
+msgid "note_me_menu_format_formatted_text"
+msgstr "Biçimli metin"
+
+msgid "note_me_menu_format_left"
+msgstr "Sol"
+
+msgid "note_me_menu_format_plain_text"
+msgstr "Düz metin"
+
+msgid "note_me_menu_format_right"
+msgstr "Sağ"
+
+msgid "note_me_menu_note_details"
+msgstr "Detaylar"
+
+msgid "note_me_menu_note_new"
+msgstr "Yeni"
+
+msgid "note_me_menu_note_open"
+msgstr "Aç"
+
+msgid "note_me_menu_note_save"
+msgstr "Kaydet"
+
+msgid "note_me_menu_note_settings"
+msgstr "Ayarlar"
+
+msgid "note_ms_save_failed"
+msgstr "Kaydedilemiyor"
+
+msgid "note_ti_details_title"
+msgstr "Not detayları"
+
+msgid "notes_ib_saved"
+msgstr "Kaydedildi"
+
+msgid "sfil_ti_open_note"
+msgstr "Not aç"
+
+msgid "sfil_ti_save_object_note"
+msgstr "Not kaydet"
+
+msgid "sfil_va_save_object_name_stub_note"
+msgstr "Not"
+
+msgid "sfil_va_select_object_no_objects_notes"
+msgstr "(not yok)"
