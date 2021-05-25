@@ -1,0 +1,106 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-notes 20090706094240\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.07.06 09:42+0300\n"
+"PO-Revision-Date: 2010-02-01 16:22+0100\n"
+"Last-Translator: Andy1210 <andy1210@gmail.com>\n"
+"Language-Team: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "conn_nc_remove_formatting"
+msgstr "Az összes formázást törlöd a jegyzetből?"
+
+msgid "note_ap_notes_name"
+msgstr "Jegyzetek"
+
+msgid "note_ap_notes_title"
+msgstr "Jegyzetek"
+
+msgid "note_fi_details_characters"
+msgstr "Karakterek száma"
+
+msgid "note_fi_details_lines"
+msgstr "Sorok száma"
+
+msgid "note_ib_autosave_recover_failed"
+msgstr "Automatikusan mentett fájl visszaállítása sikertelen"
+
+msgid "note_ib_not_available"
+msgstr "Nem elérhető"
+
+msgid "note_ib_remote_file_not_available"
+msgstr "Távoli fájl nem elérhető"
+
+msgid "note_ib_unsupported_char"
+msgstr "Nem támogatott karakterek"
+
+msgid "note_me_menu_edit_redo"
+msgstr "Mégis"
+
+msgid "note_me_menu_edit_undo"
+msgstr "Visszavon"
+
+msgid "note_me_menu_format_alignment"
+msgstr "Igazítás"
+
+msgid "note_me_menu_format_centered"
+msgstr "Középre"
+
+msgid "note_me_menu_format_file_format"
+msgstr "Fájl formátum"
+
+msgid "note_me_menu_format_font"
+msgstr "Betűtípus"
+
+msgid "note_me_menu_format_formatted_text"
+msgstr "Formázott szöveg"
+
+msgid "note_me_menu_format_left"
+msgstr "Balra"
+
+msgid "note_me_menu_format_plain_text"
+msgstr "Sima szöveg"
+
+msgid "note_me_menu_format_right"
+msgstr "Jobbra"
+
+msgid "note_me_menu_note_details"
+msgstr "Részletek"
+
+msgid "note_me_menu_note_new"
+msgstr "Új"
+
+msgid "note_me_menu_note_open"
+msgstr "Megnyitás"
+
+msgid "note_me_menu_note_save"
+msgstr "Mentés"
+
+msgid "note_me_menu_note_settings"
+msgstr "Beállítások"
+
+msgid "note_ms_save_failed"
+msgstr "Nem lehet menteni"
+
+msgid "note_ti_details_title"
+msgstr "Jegyzet részletek"
+
+msgid "notes_ib_saved"
+msgstr "Mentve"
+
+msgid "sfil_ti_open_note"
+msgstr "Jegyzet megnyitása"
+
+msgid "sfil_ti_save_object_note"
+msgstr "Jegyzet mentése"
+
+msgid "sfil_va_save_object_name_stub_note"
+msgstr "Jegyzet"
+
+msgid "sfil_va_select_object_no_objects_notes"
+msgstr "(nincsenek jegyzetek)"
+
