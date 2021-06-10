@@ -1,0 +1,108 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.07.06 09:42+0300\n"
+"PO-Revision-Date: 2010-11-30 11:47+0000\n"
+"Last-Translator: \n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_HK\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "conn_nc_remove_formatting"
+msgstr "移除備註中所有的文字樣式設定?"
+
+msgid "note_ap_notes_name"
+msgstr "備註"
+
+msgid "note_ap_notes_title"
+msgstr "備註"
+
+msgid "note_fi_details_characters"
+msgstr "字數"
+
+msgid "note_fi_details_lines"
+msgstr "行線"
+
+msgid "note_ib_autosave_recover_failed"
+msgstr "無法恢復自動儲存檔案"
+
+msgid "note_ib_not_available"
+msgstr "不可用"
+
+msgid "note_ib_remote_file_not_available"
+msgstr "遠端檔案不可用"
+
+msgid "note_ib_unsupported_char"
+msgstr "不支援的字元符號"
+
+msgid "note_me_menu_edit_redo"
+msgstr "重覆"
+
+msgid "note_me_menu_edit_undo"
+msgstr "復原"
+
+msgid "note_me_menu_format_alignment"
+msgstr "對齊"
+
+msgid "note_me_menu_format_centered"
+msgstr "置中對齊"
+
+msgid "note_me_menu_format_file_format"
+msgstr "檔案格式"
+
+msgid "note_me_menu_format_font"
+msgstr "字型"
+
+msgid "note_me_menu_format_formatted_text"
+msgstr "樣式"
+
+msgid "note_me_menu_format_left"
+msgstr "左邊"
+
+msgid "note_me_menu_format_plain_text"
+msgstr "純文字"
+
+msgid "note_me_menu_format_right"
+msgstr "右邊"
+
+msgid "note_me_menu_note_details"
+msgstr "詳細"
+
+msgid "note_me_menu_note_new"
+msgstr "新增"
+
+msgid "note_me_menu_note_open"
+msgstr "開啟"
+
+msgid "note_me_menu_note_save"
+msgstr "儲存"
+
+msgid "note_me_menu_note_settings"
+msgstr "設定"
+
+msgid "note_ms_save_failed"
+msgstr "無法儲存"
+
+msgid "note_ti_details_title"
+msgstr "詳細資料"
+
+msgid "notes_ib_saved"
+msgstr "已儲存"
+
+msgid "sfil_ti_open_note"
+msgstr "開啟備註"
+
+msgid "sfil_ti_save_object_note"
+msgstr "儲存"
+
+msgid "sfil_va_save_object_name_stub_note"
+msgstr "註釋"
+
+msgid "sfil_va_select_object_no_objects_notes"
+msgstr "(沒有檔案)"
