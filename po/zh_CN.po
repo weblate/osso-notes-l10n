@@ -1,0 +1,108 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.07.06 09:42+0300\n"
+"PO-Revision-Date: 2010-11-30 11:47+0000\n"
+"Last-Translator: \n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "conn_nc_remove_formatting"
+msgstr "从记事本中删除全部的文字格式?"
+
+msgid "note_ap_notes_name"
+msgstr "记事本"
+
+msgid "note_ap_notes_title"
+msgstr "记事本"
+
+msgid "note_fi_details_characters"
+msgstr "字节数:"
+
+msgid "note_fi_details_lines"
+msgstr "行数:"
+
+msgid "note_ib_autosave_recover_failed"
+msgstr "回复自动保存文件失败"
+
+msgid "note_ib_not_available"
+msgstr "不可用"
+
+msgid "note_ib_remote_file_not_available"
+msgstr "远程文件不可用"
+
+msgid "note_ib_unsupported_char"
+msgstr "不支持的字符"
+
+msgid "note_me_menu_edit_redo"
+msgstr "重做"
+
+msgid "note_me_menu_edit_undo"
+msgstr "撤销"
+
+msgid "note_me_menu_format_alignment"
+msgstr "对齐"
+
+msgid "note_me_menu_format_centered"
+msgstr "居中"
+
+msgid "note_me_menu_format_file_format"
+msgstr "文件格式"
+
+msgid "note_me_menu_format_font"
+msgstr "字体"
+
+msgid "note_me_menu_format_formatted_text"
+msgstr "格式文本"
+
+msgid "note_me_menu_format_left"
+msgstr "左"
+
+msgid "note_me_menu_format_plain_text"
+msgstr "标准文本"
+
+msgid "note_me_menu_format_right"
+msgstr "右"
+
+msgid "note_me_menu_note_details"
+msgstr "详情"
+
+msgid "note_me_menu_note_new"
+msgstr "新建"
+
+msgid "note_me_menu_note_open"
+msgstr "打开"
+
+msgid "note_me_menu_note_save"
+msgstr "保存"
+
+msgid "note_me_menu_note_settings"
+msgstr "设置"
+
+msgid "note_ms_save_failed"
+msgstr "无法保存"
+
+msgid "note_ti_details_title"
+msgstr "文档详情"
+
+msgid "notes_ib_saved"
+msgstr "已保存"
+
+msgid "sfil_ti_open_note"
+msgstr "打开文档"
+
+msgid "sfil_ti_save_object_note"
+msgstr "保存文档"
+
+msgid "sfil_va_save_object_name_stub_note"
+msgstr "文档"
+
+msgid "sfil_va_select_object_no_objects_notes"
+msgstr "(没有文档)"
