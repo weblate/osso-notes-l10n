@@ -1,0 +1,108 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.07.06 09:42+0300\n"
+"PO-Revision-Date: 2010-11-30 11:47+0000\n"
+"Last-Translator: \n"
+"Language-Team: Korean (http://www.transifex.net/projects/p/n900-extra-translations/language/ko/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "conn_nc_remove_formatting"
+msgstr "이 문서의 모든 서식을 제거 하시겠습니까?"
+
+msgid "note_ap_notes_name"
+msgstr "노트"
+
+msgid "note_ap_notes_title"
+msgstr "노트"
+
+msgid "note_fi_details_characters"
+msgstr "글자 수"
+
+msgid "note_fi_details_lines"
+msgstr "줄 수"
+
+msgid "note_ib_autosave_recover_failed"
+msgstr "자동 저장된 파일을 불러오는데 실패 하였습니다"
+
+msgid "note_ib_not_available"
+msgstr "이용 불가"
+
+msgid "note_ib_remote_file_not_available"
+msgstr "원격 파일이 존재 하지 않습니다"
+
+msgid "note_ib_unsupported_char"
+msgstr "지원되지 않는 글자입니다"
+
+msgid "note_me_menu_edit_redo"
+msgstr "다시 실행"
+
+msgid "note_me_menu_edit_undo"
+msgstr "되돌리기"
+
+msgid "note_me_menu_format_alignment"
+msgstr "정렬"
+
+msgid "note_me_menu_format_centered"
+msgstr "가운데 정렬"
+
+msgid "note_me_menu_format_file_format"
+msgstr "파일 종류"
+
+msgid "note_me_menu_format_font"
+msgstr "글꼴"
+
+msgid "note_me_menu_format_formatted_text"
+msgstr "서식 문서"
+
+msgid "note_me_menu_format_left"
+msgstr "왼쪽 정렬"
+
+msgid "note_me_menu_format_plain_text"
+msgstr "일반 문서"
+
+msgid "note_me_menu_format_right"
+msgstr "오른쪽 정렬"
+
+msgid "note_me_menu_note_details"
+msgstr "자세히"
+
+msgid "note_me_menu_note_new"
+msgstr "새로 만들기"
+
+msgid "note_me_menu_note_open"
+msgstr "불러오기"
+
+msgid "note_me_menu_note_save"
+msgstr "저장하기"
+
+msgid "note_me_menu_note_settings"
+msgstr "설정"
+
+msgid "note_ms_save_failed"
+msgstr "저장이 실패했습니다"
+
+msgid "note_ti_details_title"
+msgstr "문서 정보"
+
+msgid "notes_ib_saved"
+msgstr "저장 완료"
+
+msgid "sfil_ti_open_note"
+msgstr "문서 불러오기"
+
+msgid "sfil_ti_save_object_note"
+msgstr "문서 저장하기"
+
+msgid "sfil_va_save_object_name_stub_note"
+msgstr "노트"
+
+msgid "sfil_va_select_object_no_objects_notes"
+msgstr "(문서 없음)"
