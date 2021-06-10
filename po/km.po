@@ -1,0 +1,108 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.07.06 09:42+0300\n"
+"PO-Revision-Date: 2010-11-30 11:47+0000\n"
+"Last-Translator: \n"
+"Language-Team: Khmer (http://www.transifex.net/projects/p/n900-extra-translations/language/km/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: km\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "conn_nc_remove_formatting"
+msgstr "លុបរាល់ទំរង់អក្សរពីកត់ចំណាំ?"
+
+msgid "note_ap_notes_name"
+msgstr "កត់ចំណាំ"
+
+msgid "note_ap_notes_title"
+msgstr "កត់ចំណាំ"
+
+msgid "note_fi_details_characters"
+msgstr "លេខ និងអក្សរ"
+
+msgid "note_fi_details_lines"
+msgstr "ជួរនៃលេខ"
+
+msgid "note_ib_autosave_recover_failed"
+msgstr "ការសង្រ្គោះឯកសារស្វ័យរក្សាទុកមិនបានសំរេច"
+
+msgid "note_ib_not_available"
+msgstr "មិនទំនេរ"
+
+msgid "note_ib_remote_file_not_available"
+msgstr "ឯកសារបញ្ជាមិនទំនេរ"
+
+msgid "note_ib_unsupported_char"
+msgstr "អក្សរសាស្រ្តមិនអនុញ្ញាតិ"
+
+msgid "note_me_menu_edit_redo"
+msgstr "ធើ្វសារឡើងវិញ"
+
+msgid "note_me_menu_edit_undo"
+msgstr "មិនធ្វើវិញ"
+
+msgid "note_me_menu_format_alignment"
+msgstr "រៀបជាជួរ"
+
+msgid "note_me_menu_format_centered"
+msgstr "ចំកណ្តាល"
+
+msgid "note_me_menu_format_file_format"
+msgstr "ទំរង់ឯកសារ"
+
+msgid "note_me_menu_format_font"
+msgstr "ក្របអក្សរ"
+
+msgid "note_me_menu_format_formatted_text"
+msgstr "ទ្រង់ទ្រាយអក្សរ"
+
+msgid "note_me_menu_format_left"
+msgstr "ងាកឆ្វេង"
+
+msgid "note_me_menu_format_plain_text"
+msgstr "ទំរង់ជាអក្សរ"
+
+msgid "note_me_menu_format_right"
+msgstr "ខាងស្ដាំ"
+
+msgid "note_me_menu_note_details"
+msgstr "រាយលំអិត"
+
+msgid "note_me_menu_note_new"
+msgstr "ថ្មី"
+
+msgid "note_me_menu_note_open"
+msgstr "បើក"
+
+msgid "note_me_menu_note_save"
+msgstr "រក្សាទុក"
+
+msgid "note_me_menu_note_settings"
+msgstr "ការៀបចំ"
+
+msgid "note_ms_save_failed"
+msgstr "មិនអាចរក្សាទុក"
+
+msgid "note_ti_details_title"
+msgstr "កត់ចំណាំដោយលំអិត"
+
+msgid "notes_ib_saved"
+msgstr "បានរក្សាទុក"
+
+msgid "sfil_ti_open_note"
+msgstr "បើកការកត់ចំណាំ"
+
+msgid "sfil_ti_save_object_note"
+msgstr "រក្សាទុកការកត់ចំណាំ"
+
+msgid "sfil_va_save_object_name_stub_note"
+msgstr "កត់ចំណាំ"
+
+msgid "sfil_va_select_object_no_objects_notes"
+msgstr "(គ្មានការកត់ចំណាំ)"
