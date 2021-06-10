@@ -1,0 +1,109 @@
+# 
+# Translators:
+# Toni Hermoso Pulido <toniher@softcatala.cat>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.07.06 09:42+0300\n"
+"PO-Revision-Date: 2010-11-30 11:47+0000\n"
+"Last-Translator: \n"
+"Language-Team: Catalan (http://www.transifex.net/projects/p/n900-extra-translations/language/ca/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ca\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "conn_nc_remove_formatting"
+msgstr "S'elimina el format de la nota?"
+
+msgid "note_ap_notes_name"
+msgstr "Notes"
+
+msgid "note_ap_notes_title"
+msgstr "Notes"
+
+msgid "note_fi_details_characters"
+msgstr "Nombre de caràcters"
+
+msgid "note_fi_details_lines"
+msgstr "Nombre de línies"
+
+msgid "note_ib_autosave_recover_failed"
+msgstr "La recuperació de fitxer auto-desat ha fallat"
+
+msgid "note_ib_not_available"
+msgstr "No disponible"
+
+msgid "note_ib_remote_file_not_available"
+msgstr "Fitxer remot no disponible"
+
+msgid "note_ib_unsupported_char"
+msgstr "Caràcters no permesos"
+
+msgid "note_me_menu_edit_redo"
+msgstr "Refer"
+
+msgid "note_me_menu_edit_undo"
+msgstr "Desfer"
+
+msgid "note_me_menu_format_alignment"
+msgstr "Alineació"
+
+msgid "note_me_menu_format_centered"
+msgstr "Centrat"
+
+msgid "note_me_menu_format_file_format"
+msgstr "Format del fitxer"
+
+msgid "note_me_menu_format_font"
+msgstr "Font"
+
+msgid "note_me_menu_format_formatted_text"
+msgstr "Text amb format"
+
+msgid "note_me_menu_format_left"
+msgstr "Esquerra"
+
+msgid "note_me_menu_format_plain_text"
+msgstr "Text net"
+
+msgid "note_me_menu_format_right"
+msgstr "Dreta"
+
+msgid "note_me_menu_note_details"
+msgstr "Detalls"
+
+msgid "note_me_menu_note_new"
+msgstr "Nova"
+
+msgid "note_me_menu_note_open"
+msgstr "Obre"
+
+msgid "note_me_menu_note_save"
+msgstr "Desa"
+
+msgid "note_me_menu_note_settings"
+msgstr "Preferències"
+
+msgid "note_ms_save_failed"
+msgstr "No s'ha pogut desar"
+
+msgid "note_ti_details_title"
+msgstr "Detalls de la nota"
+
+msgid "notes_ib_saved"
+msgstr "S'ha desat"
+
+msgid "sfil_ti_open_note"
+msgstr "Obre una nota"
+
+msgid "sfil_ti_save_object_note"
+msgstr "Desa la nota"
+
+msgid "sfil_va_save_object_name_stub_note"
+msgstr "Nota"
+
+msgid "sfil_va_select_object_no_objects_notes"
+msgstr "(no hi ha cap nota)"
