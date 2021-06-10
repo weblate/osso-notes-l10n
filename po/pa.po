@@ -1,0 +1,108 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.07.06 09:42+0300\n"
+"PO-Revision-Date: 2010-11-30 11:47+0000\n"
+"Last-Translator: \n"
+"Language-Team: Panjabi (Punjabi) (http://www.transifex.net/projects/p/n900-extra-translations/language/pa/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pa\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "conn_nc_remove_formatting"
+msgstr "ਕੀ ਨੋਟ ਵਿੱਚ ਸਭ ਟੈਕਸਟ ਫਾਰਮੈਟ ਹਟਾਉਣਾ ਹੈ?"
+
+msgid "note_ap_notes_name"
+msgstr "ਨੋਟਿਸ"
+
+msgid "note_ap_notes_title"
+msgstr "ਨੋਟਿਸ"
+
+msgid "note_fi_details_characters"
+msgstr "ਅੱਖਰਾਂ ਦੀ ਗਿਣਤੀ"
+
+msgid "note_fi_details_lines"
+msgstr "ਲਾਈਨਾਂ ਦੀ ਗਿਣਤੀ"
+
+msgid "note_ib_autosave_recover_failed"
+msgstr "ਆਪੇ-ਸੰਭਾਲੀ ਗਈ ਫਾਇਲ ਮੁੜ-ਪ੍ਰਾਪਤ ਕਰਨ ਲਈ ਫੇਲ੍ਹ"
+
+msgid "note_ib_not_available"
+msgstr "ਉਪਲੱਬਧ ਨਹੀਂ"
+
+msgid "note_ib_remote_file_not_available"
+msgstr "ਰਿਮੋਟ ਫਾਇਲ ਉਪਲੱਬਧ ਨਹੀਂ"
+
+msgid "note_ib_unsupported_char"
+msgstr "ਨਾ-ਸਹਾਇਕ ਅੱਖਰ"
+
+msgid "note_me_menu_edit_redo"
+msgstr "ਪਰਤਾਓਵਾਪਸ ਲਵੋ"
+
+msgid "note_me_menu_edit_undo"
+msgstr "ਵਾਪਸ"
+
+msgid "note_me_menu_format_alignment"
+msgstr "ਇਕਸਾਰ"
+
+msgid "note_me_menu_format_centered"
+msgstr "ਸੈਂਟਰ 'ਚ"
+
+msgid "note_me_menu_format_file_format"
+msgstr "ਫਾਇਲ ਫਾਰਮੈਟ"
+
+msgid "note_me_menu_format_font"
+msgstr "ਫੋਂਟ"
+
+msgid "note_me_menu_format_formatted_text"
+msgstr "ਫਾਰਮੈਟ ਕੀਤਾ ਟੈਕਸਟ"
+
+msgid "note_me_menu_format_left"
+msgstr "ਖੱਬੇ"
+
+msgid "note_me_menu_format_plain_text"
+msgstr "ਪਲੇਨ ਟੈਕਸਟ"
+
+msgid "note_me_menu_format_right"
+msgstr "ਸੱਜੇ"
+
+msgid "note_me_menu_note_details"
+msgstr "ਵੇਰਵਾ"
+
+msgid "note_me_menu_note_new"
+msgstr "ਨਵਾਂ"
+
+msgid "note_me_menu_note_open"
+msgstr "ਖੋਲ੍ਹੋ"
+
+msgid "note_me_menu_note_save"
+msgstr "ਸੰਭਾਲੋ"
+
+msgid "note_me_menu_note_settings"
+msgstr "ਸੈਟਿੰਗ"
+
+msgid "note_ms_save_failed"
+msgstr "ਸੰਭਾਲਣ ਲਈ ਅਸਮਰੱਥ"
+
+msgid "note_ti_details_title"
+msgstr "ਨੋਟ ਵੇਰਵਾ"
+
+msgid "notes_ib_saved"
+msgstr "ਸੰਭਾਲਿਆ"
+
+msgid "sfil_ti_open_note"
+msgstr "ਨੋਟ ਖੋਲ੍ਹੋ"
+
+msgid "sfil_ti_save_object_note"
+msgstr "ਨੋਟ ਸੰਭਾਲੋ"
+
+msgid "sfil_va_save_object_name_stub_note"
+msgstr "ਨੋਟ"
+
+msgid "sfil_va_select_object_no_objects_notes"
+msgstr "(ਨੋਟ ਨਹੀਂ)"
