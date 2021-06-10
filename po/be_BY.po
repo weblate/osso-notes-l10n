@@ -1,0 +1,108 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.07.06 09:42+0300\n"
+"PO-Revision-Date: 2012-05-26 10:30+0000\n"
+"Last-Translator: Stanislau <kasrkin@mail.by>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: be_BY\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "conn_nc_remove_formatting"
+msgstr "Выдаліць усt фарматаванні тэксту з нататкі?"
+
+msgid "note_ap_notes_name"
+msgstr "Нататкі"
+
+msgid "note_ap_notes_title"
+msgstr "Нататкі"
+
+msgid "note_fi_details_characters"
+msgstr "Колькасць сімвалаў"
+
+msgid "note_fi_details_lines"
+msgstr "Колькасць лініяў"
+
+msgid "note_ib_autosave_recover_failed"
+msgstr "Памылка аднаўлення аўтаматычна захаванага файла"
+
+msgid "note_ib_not_available"
+msgstr "Недаступна"
+
+msgid "note_ib_remote_file_not_available"
+msgstr "Аддалены файл недаступны"
+
+msgid "note_ib_unsupported_char"
+msgstr "Непадтрымоўваныя сімвалы"
+
+msgid "note_me_menu_edit_redo"
+msgstr "Паўтарыць"
+
+msgid "note_me_menu_edit_undo"
+msgstr "Скасаваць"
+
+msgid "note_me_menu_format_alignment"
+msgstr "Выраўноўванне"
+
+msgid "note_me_menu_format_centered"
+msgstr "Па цэнтры"
+
+msgid "note_me_menu_format_file_format"
+msgstr "Фармат файла"
+
+msgid "note_me_menu_format_font"
+msgstr "Шрыфт"
+
+msgid "note_me_menu_format_formatted_text"
+msgstr "Фарматаваны тэкст"
+
+msgid "note_me_menu_format_left"
+msgstr "Злева"
+
+msgid "note_me_menu_format_plain_text"
+msgstr "Толькі тэкст"
+
+msgid "note_me_menu_format_right"
+msgstr "Справа"
+
+msgid "note_me_menu_note_details"
+msgstr "Дэталі"
+
+msgid "note_me_menu_note_new"
+msgstr "Новы"
+
+msgid "note_me_menu_note_open"
+msgstr "Адчыніць"
+
+msgid "note_me_menu_note_save"
+msgstr "Захаваць"
+
+msgid "note_me_menu_note_settings"
+msgstr "Налады"
+
+msgid "note_ms_save_failed"
+msgstr "Немагчыма захаваць"
+
+msgid "note_ti_details_title"
+msgstr "Дэталі нататкі"
+
+msgid "notes_ib_saved"
+msgstr "Захавана"
+
+msgid "sfil_ti_open_note"
+msgstr "Адчыніць нататку"
+
+msgid "sfil_ti_save_object_note"
+msgstr "Захаваць нататку"
+
+msgid "sfil_va_save_object_name_stub_note"
+msgstr "Нататка"
+
+msgid "sfil_va_select_object_no_objects_notes"
+msgstr "(няма нататак)"
